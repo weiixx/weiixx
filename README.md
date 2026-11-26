@@ -5,9 +5,6 @@
 
 ### Aspiring IT Professional | Programmer | Database Enthusiast
 
-<!-- Replace profile.jpg with your uploaded formal photo -->
-<img src="profile.jpg" width="180" alt="Archie Lynne Arl B. Deloya">
-
 </div>
 
 ---
